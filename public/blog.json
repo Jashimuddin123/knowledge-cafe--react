@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "cover-image": "https://ibb.co/jbF5nMX",
+      "blog-title": "Exploring the Wilderness",
+      "author-image": "https://ibb.co/0YLcnYS",
+      "author": "John Doe",
+      "posted-date": "2024-05-13",
+      "reading-time": "10 min",
+      "hashtags": ["nature", "adventure", "travel"]
+    },
+    {
+      "id": 2,
+      "cover-image": "https://ibb.co/HYFZgsP",
+      "blog-title": "Cooking Adventures",
+      "author-image": "https://ibb.co/LRkTJtX",
+      "author": "Jane Smith",
+      "posted-date": "2024-05-12",
+      "reading-time": "8 min",
+      "hashtags": ["cooking", "recipes", "food"]
+    },
+    {
+      "id": 3,
+      "cover-image": "https://ibb.co/8x7NnGp",
+      "blog-title": "The Art of Coding",
+      "author-image": "https://ibb.co/kDLMfp9",
+      "author": "Alex Johnson",
+      "posted-date": "2024-05-11",
+      "reading-time": "15 min",
+      "hashtags": ["programming", "coding", "technology"]
+    },
+    {
+      "id": 4,
+      "cover-image": "https://ibb.co/8zyBQ0Z",
+      "blog-title": "Fitness Journey",
+      "author-image": "https://ibb.co/wdLvZym",
+      "author": "Emily Brown",
+      "posted-date": "2024-05-10",
+      "reading-time": "12 min",
+      "hashtags": ["fitness", "exercise", "health"]
+    }
+  ]
